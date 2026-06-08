@@ -14,7 +14,7 @@ const CONFIG = {
     eventDate:     "July 15, 2026 09:00:00",            // ← countdown target
     location:      "BITS Pilani, Hyderabad Campus",
     email:         "hackathon@dadu.ac.in",
-    phone:         "+91 40 6630 3000",
+    phone:         "+91 40 xxxx 3000",
     prizePool:     "₹1,00,000",
     footerTagline: "Made with ❤️ for the next generation of builders.",
     org:           "DADU — Developer Association of BITS Pilani Hyderabad",
